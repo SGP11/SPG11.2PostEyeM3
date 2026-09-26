@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "ModPackTemplate.dll",
+  "author": "SGP11",
+  "name": "2PostEyeModlist 3",
+  "uniqueName": "SPG11.2PostEyeM3",
+  "version": "1.0.0",
+  "owmlVersion": "2.15.1",
+  "dependencies": [
+    "Walker.AstralCodex",
+    "CantAffordaName.TesseractsSecret",
+    "AnonymousStrangerOW.TheStrangerTheyAre",
+    "coderCleric.JamHub",
+    "GameWyrm.HearthsNeighbor2",
+    "MegaPiggy.Axiom",
+    "xen.ModJam3",
+    "2walker2.OWJam5ModProject",
+    "CantAffordaName.OnARail",
+    "Ender.Beryl.BrightSpark",
+    "Etherpod.T0187",
+    "Hawkbar.Terrarium",
+    "MegaPiggy.AnomalyResearchAndContainment",
+    "orclecle.Jam5PingBox",
+    "TheLoweDown256.TLDJam5",
+    "TheSignalJammers.FifthModJam",
+    "xen-42.ModJam5"
+  ]
+}
