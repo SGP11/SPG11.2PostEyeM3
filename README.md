@@ -1,4 +1,4 @@
-﻿<img width="1500" height="500" alt="0_required_modlist_1_art" src="https://github.com/user-attachments/assets/0b265289-2050-4d1d-86e0-3149b44e3996" />
+<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/6fcfc966-2be2-44c3-9585-ff805138f2d6" />
 
 # 0Required
 
