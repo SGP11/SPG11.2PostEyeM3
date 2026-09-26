@@ -1,6 +1,6 @@
 <img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/6fcfc966-2be2-44c3-9585-ff805138f2d6" />
 
-# 0Required
+# 2 Post Eye - Modlist 3
 
 A curated modlist focused on post‑Eye gameplay enhancements, visual upgrades, and experimental mechanics.  
 Designed to expand replayability and add new layers of challenge and expression to Outer Wilds.
