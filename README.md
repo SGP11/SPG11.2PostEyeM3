@@ -1,4 +1,4 @@
-﻿<img width="1500" height="500" alt="0_required_modlist_1_art" src="https://github.com/user-attachments/assets/0b265289-2050-4d1d-86e0-3149b44e3996" />
+<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/705c5d85-3c37-4b9f-acb3-5de59b3dcf37" />
 
 # SGP11.M3EnhancementsPlus — Optional Enhancement Pack
 
